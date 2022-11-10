@@ -1,3 +1,16 @@
+<h1 align = "center">Beginners Javascript notes</h1> 
+
+<p align="center">
+  <img src="https://res.cloudinary.com/wesbos/image/upload/v1574876851/BJS/BJS-Social-Share.png" width = 400px>
+</p>
+<div align="center">
+
+### Course link: [Beginners Javascript](beginnersjavascript.com)
+### GitHub link: [Repository](https://github.com/wesbos/beginner-javascript)
+### Author: [Wes Bos](wesbos.com)
+## [Table of Content](index.md)
+</div>
+
 # **Table of content:**
 
 ## **Module #1 [The basics](01_basics.md)**
