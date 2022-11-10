@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://res.cloudinary.com/wesbos/image/upload/v1574876851/BJS/BJS-Social-Share.png" width = 400px>
 </p>
-<div align="center">
-
-### Course link: [Beginners Javascript](beginnersjavascript.com)
-### GitHub link: [Repository](https://github.com/wesbos/beginner-javascript)
-### Author: [Wes Bos](wesbos.com)
-## [Table of Content](index.md)
-</div>
 
 # **Table of content:**
 
